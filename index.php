@@ -75,6 +75,7 @@ $pdo = null;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP掲示板</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./icon.ico">
 </head>
 <body>
     <h1 class="title">PHPで掲示板アプリ</h1>
